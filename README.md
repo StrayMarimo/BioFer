@@ -3,6 +3,9 @@
 
 A device that converts biodegradable waste into horticultural substrates, which will help in speeding up the daily decrease of biodegradable waste.
 
+<img src="3D Designs/exterior_design(front).png" height=400px>
+<img src="3D Designs/exterior_design(back).png" height=400px>
+<img src="3D Designs/Interior_Design.png" height=400px>
 
 ## Materials Used
 #### Main Components: 
@@ -26,3 +29,14 @@ A device that converts biodegradable waste into horticultural substrates, which 
 - 1pc blender blades
 - 2pcs PVC pipes
 - 6pcs PVC pipe elbows
+
+## Schematic Diagram
+
+<img src="schematic_diagram_main.png" width=100%>
+<img src="schematic_diagram_mobile_robot.png" width=100%>
+
+<br>
+
+
+This project is created in partial fullfilment of requirements in electronics and robotics.  
+SCIENCE, TECHNOLOGY, AND ENGINEERING • CAMARINES SUR NATIONAL HIGH SCHOOL • **A/Y 2018-2019**
