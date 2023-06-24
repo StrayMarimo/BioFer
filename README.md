@@ -3,9 +3,11 @@
 
 A device that converts biodegradable waste into horticultural substrates, which will help in speeding up the daily decrease of biodegradable waste.
 
+<div>
 <img src="3D Designs/exterior_design(front).png" height=400px>
 <img src="3D Designs/exterior_design(back).png" height=400px>
 <img src="3D Designs/Interior_Design.png" height=400px>
+</div>
 
 ## Materials Used
 #### Main Components: 
@@ -18,7 +20,7 @@ A device that converts biodegradable waste into horticultural substrates, which 
 - 2pcs Breadboard
 - 8pcs 1.5v batteries
 
-#### Other Materials Used
+#### Other Materials Used:
 - 1pc Water dispenser case
 - 4pcs wheels
 - 1pc Pulverizer
